@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415285205 source:c:\documents and settings\administrator.cygnus-6d109ec0\desktop\sav\bfs kisch\main.cpp
+	<cstdio>
+	<vector>
+	<queue>
+

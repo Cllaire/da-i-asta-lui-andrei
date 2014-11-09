@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415277203 source:c:\documents and settings\administrator.cygnus-6d109ec0\desktop\sav\acsl contest 2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
